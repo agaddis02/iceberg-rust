@@ -1,0 +1,34 @@
+crates/iceberg/src/arrow/reader.rs
+  s_f5bc3dc2447ab3::t_5afac938931104 5391,5469-5473
+  s_f5bc3dc2447ab3::t_be38e1d4cc5e99 1312-1378,1382,5328,5354,5368,5394,5425,5456,5475-5476
+  s_f5bc3dc2447ab3::t_0cfbf78f43444b 321-323
+  s_f5bc3dc2447ab3::t_c3de307be73b03 5357-5367
+  s_f5bc3dc2447ab3::t_913376b1da0524 1379-1381
+  s_f5bc3dc2447ab3::t_3ef49a6c5b82f1 1383-1385
+  s_f5bc3dc2447ab3::t_376de03ab23275 5325-5327
+  s_f5bc3dc2447ab3::t_f43bf25e2a0834 5329-5331,5351-5353
+  s_f5bc3dc2447ab3::t_4837a5b03ef6a2 5355-5356
+  s_f5bc3dc2447ab3::t_4e67d48c2bc961 5369-5371,5388-5390
+  s_f5bc3dc2447ab3::t_920a22f6d78dbe 5392-5393
+  s_f5bc3dc2447ab3::t_597ee90102a683 5395-5397,5422-5424
+  s_f5bc3dc2447ab3::t_9efb3f7cbb3623 5426-5428,5453-5455
+  s_f5bc3dc2447ab3::t_974e48aeab85eb 5457-5459,5466-5468
+  s_f5bc3dc2447ab3::t_9aa504bcd01ea4 5474
+  s_f5bc3dc2447ab3::t_872515e61260c8 5477-5479
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ee8f7565c63645c3e4fe6cb094dfbb97fac3ba46",
+  "prompts": {},
+  "sessions": {
+    "s_f5bc3dc2447ab3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f609f6984ffeCSvE7QEgvPHr0L",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Volodymyr Dorokhov <volodymyr@cloudflare.com>"
+    }
+  }
+}
