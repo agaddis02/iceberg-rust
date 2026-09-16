@@ -1,0 +1,19 @@
+.gitlab-ci.yml
+  s_9ae9b58776e69d::t_bbf519b4d0594d 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cdd3e07e14e7f8092c067d858a4e00b0e716aa62",
+  "prompts": {},
+  "sessions": {
+    "s_9ae9b58776e69d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f60278fe9ffeibRBZ7M0rmxZS0",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Volodymyr Dorokhov <volodymyr@cloudflare.com>"
+    }
+  }
+}

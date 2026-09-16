@@ -1,0 +1,19 @@
+crates/iceberg/src/spec/table_metadata_builder.rs
+  s_5306e8a11082a9::t_b789c517a52d3e 344-348,405-419,421-424,428-429,433-434,3244-3347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d1331435193ed6a73fa486db31b5466901ffcc7b",
+  "prompts": {},
+  "sessions": {
+    "s_5306e8a11082a9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bf2bebaffecL5EGAfPppS3QK",
+        "model": "claude-opus-5"
+      },
+      "human_author": "vovacf201 <volodymyr@cloudflare.com>"
+    }
+  }
+}
