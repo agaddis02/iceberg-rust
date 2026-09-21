@@ -1,0 +1,19 @@
+crates/iceberg/src/transaction/rewrite_manifests.rs
+  s_51fcea61a52934::t_1d8d769103c289 27,404-409,835-846,849-919,923-993
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9f14f925489f2e756d980a8f1520331586a3b682",
+  "prompts": {},
+  "sessions": {
+    "s_51fcea61a52934": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a56e15dffeHzeNiFxCq0c5C5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Adam Gaddis <adamtyler@cloudflare.com>"
+    }
+  }
+}

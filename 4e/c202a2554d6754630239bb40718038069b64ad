@@ -1,0 +1,19 @@
+crates/iceberg/src/arrow/reader/pipeline.rs
+  s_51fcea61a52934::t_caab59ee4342c6 105-116,245-253,372-376,378-380,1729-1885,3399-3401,3458,3466-3467,3470-3494,3496,3505-3516,3520,3523-3525,3529-3535,3544-3619
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4ec202a2554d6754630239bb40718038069b64ad",
+  "prompts": {},
+  "sessions": {
+    "s_51fcea61a52934": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a56e15dffeHzeNiFxCq0c5C5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Adam Gaddis <adamtyler@cloudflare.com>"
+    }
+  }
+}
