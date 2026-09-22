@@ -1,0 +1,25 @@
+crates/iceberg/src/arrow/reader/pipeline.rs
+  s_51fcea61a52934::t_cc5f9660808a12 46-47,304-374,675,1033-1263
+crates/iceberg/src/arrow/record_batch_transformer.rs
+  s_51fcea61a52934::t_7804a31057a5af 33-36,242-247,308-333,550-561,733-738,1044,2469-2566
+crates/iceberg/src/arrow/schema.rs
+  s_51fcea61a52934::t_727b117807faa5 1195-1201,1211
+crates/iceberg/src/scan/mod.rs
+  s_51fcea61a52934::t_fa4b483c53cc8b 733-735,755-773,3482-3548
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "34be1ccfa5691cca06cd1e66695a579b9a710567",
+  "prompts": {},
+  "sessions": {
+    "s_51fcea61a52934": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5a56e15dffeHzeNiFxCq0c5C5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Adam Gaddis <adamtyler@cloudflare.com>"
+    }
+  }
+}
